@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Numele Aplicației</string>
+    <string name="title_recunoasterea_marcilor_auto">Recunoasterea marcilor auto</string>
+    <string name="subtitle_proiect_realizat">Proiect realizat pentru susținerea lucrării de diplomă\nAutor: Alexandra Soare\nCoordonatori: Radu Dogaru și Ioana Dogaru</string>
+    <string name="description_aplicatie">Aplicația permite recunoașterea mărcilor auto prin intermediul unui model de rețea neuronală.</string>
+    <string name="message_apasati_pentru_a_continua">Apăsați oriunde pentru a continua</string>
+    <string name="image_desc">Descriere imagine</string>
+    <string name="load_photo">Incarca imagine</string>
+    <string name="result">Rezultat</string>
+    <string name="probabilities">Probabilities will be displayed here</string>
+</resources>
